@@ -1,0 +1,21 @@
+body {
+		background-color: grey;
+	}	
+	p.solid {border-style: solid;}
+
+	.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
+body {
+  background-image: url("paper.gif");
+}
+
+body {
+  background-image: url("img_tree.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+}
